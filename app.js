@@ -11,6 +11,8 @@ let num2 = 20
 let sum = num1 * num2
 
 
-let res = num1 + num2 + fullName
+// let res = num1 + num2 + fullName
+
+let res = fullName + num1 + num2 
 
 console.log(res)
