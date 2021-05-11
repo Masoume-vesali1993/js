@@ -42,7 +42,7 @@ if (validEmail && validPassword) {
 // next else if
 
 let isUser = false
-let userRole = false
+let userRole = 'admin'
 
 if (isUser) {
     console.log('welcome User')
