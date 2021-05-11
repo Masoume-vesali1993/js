@@ -38,3 +38,16 @@ if (validEmail && validPassword) {
 } else if (validEmail || validPassword) {
     console.log('Is correct!')
 }
+
+// next else if
+
+let isUser = false
+let userRole = 'admin'
+
+if (isUser) {
+    console.log('welcome User')
+}else if (userRole === 'admin') {
+    console.log('Welcome Admin!')
+} else {
+    console.log('welcome!')
+}
