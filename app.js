@@ -27,3 +27,14 @@ if (age < 20) {
 if (age > 20) {
     console.log('Is Child')
 }
+
+//if else
+
+let validEmail = true
+let validPassword = false
+
+if (validEmail && validPassword) {
+    console.log('Logged In')
+} else if (validEmail || validPassword) {
+    console.log('Is correct!')
+}
