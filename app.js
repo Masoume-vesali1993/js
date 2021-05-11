@@ -16,3 +16,14 @@ let sum = num1 * num2
 let res = fullName + num1 + num2 
 
 console.log(res)
+
+//if
+let age = 12
+
+if (age < 20) {
+    console.log('Is Yonge')
+}
+
+if (age > 20) {
+    console.log('Is Child')
+}
