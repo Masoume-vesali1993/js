@@ -59,6 +59,10 @@ let firstname = 'Masoume'
 if (true) {
     let lastname = 'Vesali'
     console.log(lastname)
+    if (true) {
+        let age = '27'
+        console.log(age)
+    }
 
 }
 
