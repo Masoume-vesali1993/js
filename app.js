@@ -51,3 +51,13 @@ if (isUser) {
 } else {
     console.log('welcome!')
 }
+
+// scup in variables
+
+let firstname = 'Masoume'
+
+if (true) {
+    let lastname = 'Vesali'
+}
+
+console.log(firstName)
