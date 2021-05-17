@@ -62,5 +62,5 @@ if (true) {
 
 }
 
-console.log(lastname)
+console.log(firstName)
 
