@@ -58,6 +58,6 @@ let firstname = 'Masoume'
 
 if (true) {
     let lastname = 'Vesali'
+    console.log(firstName)
 }
 
-console.log(firstName)
