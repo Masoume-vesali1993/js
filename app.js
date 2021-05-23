@@ -88,10 +88,20 @@ let name = 'test1'
 
  //next
 
- let userId = function(id) {
-     console.log(id)
- }
+//  let userId = function(id) {
+//      console.log(id)
+//  }
 
- userId(5)
- userId(20)
+//  userId(5)
+//  userId(20)
 
+//next
+
+let userId = function(id) {
+    let res = 'user ID is: ' + id
+    return res
+}
+
+let showResult = userId(10)
+
+console.log(showResult)
