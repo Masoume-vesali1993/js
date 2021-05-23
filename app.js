@@ -86,3 +86,12 @@ let name = 'test1'
 
  message()
 
+ //next
+
+ let userId = function(id) {
+     console.log(id)
+ }
+
+ userId(5)
+ userId(20)
+
