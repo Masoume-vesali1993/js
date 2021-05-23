@@ -78,3 +78,11 @@ let name = 'test1'
     }
  }
 
+ //function
+
+ let message = function() {
+     console.log('welcome')
+ }
+
+ message()
+
